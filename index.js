@@ -1,5 +1,5 @@
 console.log('Hello, this is my first commit');
 
-const name = 'Joe';
+const name = 'Billy';
 
 console.log(name);
